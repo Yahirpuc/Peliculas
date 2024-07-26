@@ -6,6 +6,6 @@
 
 ## Práctica: Ejemplo de Consumi de API de Peliculas
 
-- **Alumno:** Yahir Alberto Ordóñez Puc
+- **Alumno:** Yahir Alberto Ordoñez Puc
 - **Cuatrimestre:** 3
 - **Grupo:** F
